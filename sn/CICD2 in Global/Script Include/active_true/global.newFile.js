@@ -3,7 +3,7 @@
  * ClassName   : sys_script_include
  * Created On  : 2019-06-03 14:26:41
  * Created By  : admin
- * Updated On  : 2019-06-03 14:27:42
+ * Updated On  : 2019-06-03 14:52:06
  * Updated By  : admin
  * URL         : /sys_script_include.do?sys_id=4e077e79db3173001ac4a565ca961921
  */
@@ -27,10 +27,12 @@ newFile.prototype = /** @lends global.module:sys_script_include.newFile.prototyp
 	/**
 	 * Description
 	 * 
-	 * @returns {boolean} 
+	 * @returns {boolean}
 	 */
 	testMe: function() {
-		return true;
+		/* this is a new comment */
+		var a = 11;
+		return a>0;
 	},
 
     type: 'newFile'
