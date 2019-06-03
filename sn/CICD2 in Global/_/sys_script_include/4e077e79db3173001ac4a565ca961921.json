@@ -1,0 +1,23 @@
+{
+  "access": "package_private",
+  "active": true,
+  "api_name": "global.newFile",
+  "caller_access": null,
+  "client_callable": false,
+  "description": null,
+  "name": "newFile",
+  "script": {
+    "____see": "sn\\CICD2 in Global\\Script Include\\active_true\\global.newFile.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-03 14:26:41",
+  "sys_id": "4e077e79db3173001ac4a565ca961921",
+  "sys_mod_count": 1,
+  "sys_name": "newFile",
+  "sys_package": "ca4f62b1db3173001ac4a565ca96195b",
+  "sys_policy": null,
+  "sys_scope": "ca4f62b1db3173001ac4a565ca96195b",
+  "sys_update_name": "sys_script_include_4e077e79db3173001ac4a565ca961921",
+  "sys_updated_by": "admin"
+}
