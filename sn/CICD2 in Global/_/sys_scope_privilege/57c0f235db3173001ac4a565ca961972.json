@@ -1,0 +1,19 @@
+{
+  "operation": "write",
+  "source_scope": "ca4f62b1db3173001ac4a565ca96195b",
+  "status": "allowed",
+  "sys_class_name": "sys_scope_privilege",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-03 13:59:47",
+  "sys_id": "57c0f235db3173001ac4a565ca961972",
+  "sys_mod_count": 0,
+  "sys_name": "New File in CICD2",
+  "sys_package": "ca4f62b1db3173001ac4a565ca96195b",
+  "sys_policy": null,
+  "sys_scope": "ca4f62b1db3173001ac4a565ca96195b",
+  "sys_update_name": "sys_scope_privilege_57c0f235db3173001ac4a565ca961972",
+  "sys_updated_by": "admin",
+  "target_name": "New File in CICD2",
+  "target_scope": "42a1ac05dbf133001ac4a565ca961921",
+  "target_type": "sys_db_object"
+}
