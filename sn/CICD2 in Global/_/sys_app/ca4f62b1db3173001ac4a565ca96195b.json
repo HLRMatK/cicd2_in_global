@@ -22,12 +22,12 @@
   "sys_created_by": "admin",
   "sys_created_on": "2019-06-03 13:52:22",
   "sys_id": "ca4f62b1db3173001ac4a565ca96195b",
-  "sys_mod_count": 2,
+  "sys_mod_count": 3,
   "sys_updated_by": "admin",
   "template": null,
   "trackable": true,
   "user_role": "c24f2ab1db3173001ac4a565ca96191f",
   "vendor": null,
   "vendor_prefix": null,
-  "version": "1.0.2"
+  "version": "1.0.3"
 }
